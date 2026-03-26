@@ -1,12 +1,12 @@
 # 🧠 Object-Oriented Design (OOD) Roadmap
 
-A structured learning path covering **OOP fundamentals**, **Object-Oriented Design**, and **Design Patterns** — with curated resources, books, and projects.
+A structured learning path covering **OOP fundamentals**, **Object-Oriented Design**, and **Design Patterns**.
 
 ---
 
 ## 📋 Prerequisites — OOP Fundamentals
 
-Before diving into OOD, make sure you have a solid grasp of the four pillars of OOP:
+Before diving into OOD, make sure you have a solid understanding of the four pillars of OOP:
 
 > **Encapsulation · Abstraction · Inheritance · Polymorphism**
 
@@ -27,7 +27,6 @@ Before diving into OOD, make sure you have a solid grasp of the four pillars of 
 
 ## 🏗️ Object-Oriented Design (OOD)
 
-Learn how to think in systems — modeling real-world problems into clean, maintainable object-oriented architectures.
 
 ### 🎥 Video Resources
 
@@ -41,7 +40,6 @@ Learn how to think in systems — modeling real-world problems into clean, maint
 
 ## 🎨 Design Patterns
 
-Learn the classic, proven solutions to recurring software design problems.
 
 ### 🎓 Course
 
