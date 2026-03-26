@@ -30,7 +30,7 @@ Before diving into OOD, make sure you have a solid understanding of the four pil
 
 ### 🎥 Video Resources
 
-- [Object-Oriented Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE
+- [Object-Oriented Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 - [Top 10 Common Object-Oriented Design Problems](https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39?fbclid=IwY2xjawQqh9NleHRuA2FlbQIxMABicmlkETFSVkJhZmJOSEdCaTBJZUhhc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvZ-i-kiW7t_fqkCPRkJaqzzYDQTbqfVrCuXtFIPo6BRKw3z1a4hy9Uzoae8_aem_mO9buoO_NkQ-bzYIDPt3MA)
 
 ### 📚 Book
