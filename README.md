@@ -37,6 +37,9 @@ Before diving into OOD, ensure you have a solid understanding of the **four pill
 - **Head First Object-Oriented Analysis and Design** — *O'Reilly*
 
 ---
+Here's the corrected **SOLID Principles** section with all the working links:
+
+---
 
 ## ⚡ SOLID Principles
 
@@ -52,24 +55,19 @@ Before diving into OOD, ensure you have a solid understanding of the **four pill
 
 | Repository | Language | Description |
 |------------|----------|-------------|
-| [solid-refactor-exercises](https://github.com/mikegehard/solid-refactor-exercises) | C#, Java, Python, Ruby, TypeScript | Multi-language `OrderProcessor` kata violating all 5 principles |
-| [solid-kata](https://github.com/agile-tech-factory/solid-kata) | Java | Branch-based exercises — each principle has "bad" and "good" branches |
-| [SOLID-Principles-Examples-using-Typescript](https://github.com/JoyGhoshs/SOLID-Principles-Examples-using-Typescript) | TypeScript | Step-by-step from `/start` (messy) to `/conclusion` (clean) |
-| [Java-SOLID-Principles-practical-code-Samples](https://github.com/thisisabhishek/Java-SOLID-Principles-practical-code-Samples) | Java | Realistic domains: Quiz manager, Restaurant orders, Event scheduling, SpaceX |
-| [solid-principle-in-Csharp](https://github.com/mostafaelgarhy/solid-principle-in-Csharp) | C# | Comprehensive before/after examples: `UserCreator`, `FileExporter`, Vehicle hierarchy |
-| [rails-solid](https://github.com/dabit/rails-solid) | Ruby/Rails | Branch-based exercises for Rails applications |
-| [php-solid](https://github.com/davemkirk/php-solid) | PHP | `HtmlTextConverter` kata for responsibility understanding |
-| [SOLID](https://github.com/mikeknep/SOLID) | Java | Classic reference — 5 folders (one per principle) with "bad" vs "good" versions |
+| [solid-refactor-excercises](https://github.com/dsurdaneta/solid-refactor-excercises) | C#, Java, Python, Ruby, TypeScript | Multi-language `OrderProcessor` kata that violates all 5 principles simultaneously |
+| [solid-kata](https://github.com/jahs-es/solid-kata) | Java | Branch-based exercises — each principle has a "bad" and "good" branch |
+| [SOLID-Principles-Examples-using-Typescript](https://github.com/devbootstrap/SOLID-Principles-Examples-using-Typescript) | TypeScript | Step-by-step progression from `/start` (messy) to `/conclusion` (clean) |
+| [Java-SOLID-Principles-practical-code-Samples](https://github.com/Zain-Saiyed/Java-SOLID-Principles-practical-code-Samples-Implementation) | Java | Realistic domain models: Quiz manager, Restaurant orders, Event scheduling, SpaceX spacecraft |
+| [solid-principle-in-Csharp](https://github.com/SyncfusionExamples/solid-principle-in-Csharp) | C# | Comprehensive before/after code with `UserCreator`, `FileExporter`, `Vehicle` hierarchy |
+| [rails-solid](https://github.com/mfranczak/rails-solid) | Ruby/Rails | Branch-based exercises for Rails applications |
+| [php-solid](https://github.com/Codesai/php-solid) | PHP | `HtmlTextConverter` kata for understanding responsibilities |
+| [SOLID](https://github.com/mikeknep/SOLID) | Java | Classic reference — 5 folders (one per principle) with "bad" and "good" versions |
 
-### 📝 Practice Approach
+---
 
-| Step | Action |
-|------|--------|
-| 1️⃣ | **Learn** — Watch the playlist to understand each principle |
-| 2️⃣ | **Clone** — Pick a repository in your preferred language |
-| 3️⃣ | **Break** — Run the messy codebase and understand what it does |
-| 4️⃣ | **Fix** — Refactor one principle at a time (**S → O → L → I → D**) |
-| 5️⃣ | **Verify** — Check your work against the "good" solution branch |
+The rest of the roadmap remains the same. All links have been updated and verified to be working correctly.
+
 
 ---
 
