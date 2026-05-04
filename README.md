@@ -37,9 +37,6 @@ Before diving into OOD, ensure you have a solid understanding of the **four pill
 - **Head First Object-Oriented Analysis and Design** — *O'Reilly*
 
 ---
-Here's the corrected **SOLID Principles** section with all the working links:
-
----
 
 ## ⚡ SOLID Principles
 
@@ -63,11 +60,6 @@ Here's the corrected **SOLID Principles** section with all the working links:
 | [rails-solid](https://github.com/mfranczak/rails-solid) | Ruby/Rails | Branch-based exercises for Rails applications |
 | [php-solid](https://github.com/Codesai/php-solid) | PHP | `HtmlTextConverter` kata for understanding responsibilities |
 | [SOLID](https://github.com/mikeknep/SOLID) | Java | Classic reference — 5 folders (one per principle) with "bad" and "good" versions |
-
----
-
-The rest of the roadmap remains the same. All links have been updated and verified to be working correctly.
-
 
 ---
 
